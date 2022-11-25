@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simone Cotroneo</h1>
 
-<p align="center"><a target="_blank" href="https://github.com/kuro-kit"><img src="https://user-images.githubusercontent.com/118080144/201520966-830879c3-5e7a-4a80-8c96-b20a21de4a05.jpg" / width="300"></a></p>
+<p align="center"><a target="_blank" href="https://github.com/kit-box"><img src="https://user-images.githubusercontent.com/118080144/201520966-830879c3-5e7a-4a80-8c96-b20a21de4a05.jpg" / width="300"></a></p>
 
 <h4 align="center">I'm a passionate Software Developer working especially with PHP/Laravel</h4>
 <h5 align="center">📫 How to reach me <a target="_blank" href="mailto:simcot89@gmail.com">simcot89@gmail.com</a></h5>
