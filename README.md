@@ -4,7 +4,7 @@
 
 <p align="center">Check out <a target="_blank" href="https://github.com/kit-box">KitBox</a> page!</p> -->
 
-<h4 align="center">I'm a passionate Software Developer working especially with PHP/Laravel</h4>
+<h4 align="center">I'm a Software Developer working especially with PHP/Laravel</h4>
 <h5 align="center">📫 How to reach me <a target="_blank" href="mailto:simcot89@gmail.com">simcot89@gmail.com</a></h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simaelw&label=Profile%20views&color=0e75b6&style=flat" alt="simaelw" /> </p>
